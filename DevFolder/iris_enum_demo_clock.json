@@ -1,0 +1,6 @@
+{
+    "name" : "dc",
+    "long_name" : "Demo Clock",
+    "port" : 3100,
+    "icon" : "web/demo_clock_favicon.ico"
+}

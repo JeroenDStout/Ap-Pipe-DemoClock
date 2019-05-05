@@ -1,0 +1,7 @@
+{ "serious" : [
+    { "env  / set_ref_dir"              : "{boot}" },
+    { "env  / set_user_dir"             : "{os-roaming}/apeiron/democlock" },
+    
+    { "env  / create_socketman"         : { "port" : 3100 } }
+  ]
+}
